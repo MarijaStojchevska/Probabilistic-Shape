@@ -7,4 +7,4 @@ In this project, we consider 3D meshes and statistically evaluate them for furth
 We perform this task stepwise: first, we apply rigid alignment to normalize the 50 training instances available on the SICAS Medical Image Repository, then we create a Gaussian Process model with smooth shape deformations for establishing correspondence among all the data sets with the help of the Iterative Closest Point method, and finally, we reconstruct the missing parts of the partial bones by creating a PCA model of the bone using the training data in correspondence.
 </div></p>
 
-More details on this project can be found in the attached report
+More details on this project can be found in the attached report.
