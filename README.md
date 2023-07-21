@@ -8,3 +8,7 @@ We perform this task stepwise: first, we apply rigid alignment to normalize the 
 </div></p>
 
 More details on this project can be found in the attached report.
+<img width="435" alt="Screenshot 2023-07-22 at 00 48 30" src="https://github.com/MarijaStojchevska/Probabilistic-Shape-Modelling/assets/18449614/9ec3fdb1-a277-49b5-a497-6ee5ac1e97c6">
+
+
+<p><div align="center"><img width="567" src="https://github.com/MarijaStojchevska/Probabilistic-Shape-Modelling/assets/18449614/9ec3fdb1-a277-49b5-a497-6ee5ac1e97c6.png" (https://github.com/MarijaStojchevska/Probabilistic-Shape-Modelling/assets/18449614/9ec3fdb1-a277-49b5-a497-6ee5ac1e97c6.png)" > </div><div align="center"><i>Figure 1: Example recostruction of a Femur bone.</i></div></p>
